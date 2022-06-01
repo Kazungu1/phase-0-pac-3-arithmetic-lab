@@ -14,3 +14,10 @@ function divide(a,b){
     return a / b;
 
 }
+// let n = 649;
+function increment(n){
+    return n+=1;
+}
+function decrement(n){
+    return n-=1;
+}
